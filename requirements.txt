@@ -5,3 +5,6 @@ numpy
 pydicom
 polars
 kaggle
+matplotlib
+seaborn
+scipy
