@@ -1,4 +1,6 @@
 
+## New Tools and libraries: 3d slicer, pydicom,nibabel, 
+
 ## Data ingestion
 ### Data ingestion and preprocessing- 314 gbs
 1. Mounted a google drive (2TB space) and then unzip the zip(203 gbs) into your gdrive
@@ -8,4 +10,4 @@
 3. Install kaggle cli via pip install kaggle .
 4. Then run commands for example```kaggle competitions download -c rsna-intracranial-aneurysm-detection``` in your specified G drive location via terminal if you want to directly download the data but better option is to download the zipfile and unzip it.
 5. Basic data viz
-6. More data viz in 3 d slicer
+6. More data viz in 3 d slicer software -medical imaging visualization

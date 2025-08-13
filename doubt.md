@@ -1,0 +1,7 @@
+- data in segmenation is exactly stating what
+- data in series folder doing what
+- model selction
+- finetuning
+- explore notebooks
+- check submission pipeline
+- series folder contains variable no of dcm files for each series - how is it handled
