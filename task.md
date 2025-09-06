@@ -12,3 +12,4 @@
     October 14, 2025 - Final Submission Deadline.
     October 27, 2025 - Winners' Requirement Deadline. This is the deadline for winners to submit to the host/Kaggle their training code, video, method description.
 ```
+

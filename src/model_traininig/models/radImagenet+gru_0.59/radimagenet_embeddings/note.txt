@@ -1,0 +1,1 @@
+- It contains embeddings only for those series scans which contain ImagePosition Patient Tag in their metadata. Around 10% of the 4405 scans don't contain this tag.

@@ -1,2 +1,2 @@
-1. Submission pipeline
-https://colab.research.google.com/drive/1ByEpXGAIxT0MJmqMIzsqFWaIepXdfPgL#scrollTo=EFfR-06aqW5I
+1.https://www.kaggle.com/code/deadlyharbor07/model-approach-2?scriptVersionId=259818870
+2.

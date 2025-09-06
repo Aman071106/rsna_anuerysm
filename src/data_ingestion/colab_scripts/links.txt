@@ -1,3 +1,0 @@
-1. Dataloading
-https://colab.research.google.com/drive/1crD9HpsRDszuerDR-Ok0u32VG7NEkHuv#scrollTo=gHqtbl2U7V92
-2. Data inference
