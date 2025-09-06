@@ -162,9 +162,7 @@ src/model_traininig/models/radImagenet+gru_0.59
 * Experiment with **3D CNNs or Swin Transformers** to better model volumetric data.
 * Investigate **domain adaptation techniques** to handle inter-institutional variability.
 
-### Training History (Loss, AUC)
 
-📊 *(Insert training/validation loss & AUC plots here)*
 
 ---
 
