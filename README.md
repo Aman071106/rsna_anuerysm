@@ -53,7 +53,7 @@ Our first approach used **RadImageNet pretrained embeddings** + a **Bidirectiona
 * **Optimizer:** Adam with weight decay `1e-5`
 * **Learning Rate:** `1e-4` with decay schedule
 
-![alt text](assets\readme_images\arch_gru_radim.png)
+![alt text](assets/readme_images/arch_gru_radim.png)
 ### Metrics & Results:
 
 * **Best Validation AUC:** `0.5880`
@@ -125,7 +125,7 @@ Our first approach used **RadImageNet pretrained embeddings** + a **Bidirectiona
 Some labels achieved high AUC, while others were poor (see per-label AUC table below). This indicates that our backbone may not be sufficiently specialized for aneurysm features.
 
 ### Training History (Loss, AUC- More can be found in `src\model_traininig\models\radImagenet+gru_0.59\artifacts`)
-![alt text](assets\readme_images\training_gru_plot.png)
+![alt text](assets/readme_images/training_gru_plot.png)
 
 ---
 
