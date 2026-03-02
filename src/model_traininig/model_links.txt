@@ -2,5 +2,3 @@
 https://www.kaggle.com/code/deadlyharbor07/model-approach-2?scriptVersionId=259818870
 
 - 0.59 score 
-
-2. unet+transformer
